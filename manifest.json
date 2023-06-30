@@ -1,7 +1,7 @@
 {
-  "name": "Komayō page",
-  "short_name": "Komayō",
-  "description": "In the mystical light of the full moon, discover the story of Komayō, a bewitching yōkai from Japanese folklore. Seductive and deadly, she lures lost souls into the game of ōgi, absorbing their life energy and dooming them to eternal torment. It&#39;s a tale of fatal attraction and unchecked desire, a poignant warning against the dangers of temptation.",
+  "name": "ຫນ້າ Komayō",
+  "short_name": "ໂຄມາໂຢ",
+  "description": "ໃນຄວາມລຶກລັບຂອງວົງເດືອນເຕັມ, ຄົ້ນພົບເລື່ອງຂອງ Komayō, yōkai bewitching ຈາກນິທານພື້ນເມືອງຂອງຍີ່ປຸ່ນ. ທີ່ເໜັງຕີງ ແລະ ຕາຍໄປ, ນາງຊັກຈູງຈິດວິນຍານທີ່ຫຼົງໄຫຼເຂົ້າໄປໃນເກມໂອຈີ, ດູດເອົາພະລັງຊີວິດຂອງເຂົາເຈົ້າ ແລະ ເຮັດໃຫ້ພວກເຂົາຕົກຢູ່ໃນຄວາມທຸກທໍລະມານນິລັນດອນ. ມັນ​ເປັນ​ເລື່ອງ​ຂອງ​ການ​ດຶງ​ດູດ​ຄວາມ​ຕາຍ​ແລະ​ຄວາມ​ປາ​ຖະ​ຫນາ​ທີ່​ບໍ່​ມີ​ການ​ກວດ​ສອບ, ເປັນ​ການ​ເຕືອນ​ໄພ​ອັນ​ຕະ​ລາຍ​ຂອງ​ການ​ລໍ້​ລວງ.",
   "lang": "lo",
   "start_url": "/",
   "display": "standalone",
