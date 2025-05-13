@@ -1,7 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lo.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <!-- Versions linguistiques alternatives -->
+    <xhtml:link rel="alternate" hreflang="bn" href="https://bn.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://fa.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="gu" href="https://gu.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://hi.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://id.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ja.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="jv" href="https://jv.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="kn" href="https://kn.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ko.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="lo" href="https://lo.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="ml" href="https://ml.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="mr" href="https://mr.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://my.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="or" href="https://or.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="pa" href="https://pa.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://ta.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://te.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://th.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://ur.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vi.komayo.page/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zh.komayo.page/"/>
+    <!-- Images -->
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_1024.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ ຢືນຢູ່ຕາມທາງທີ່ມີແສງຈັນສ່ອງ ທີ່ນະຄອນຣາຊສີມາຍາມກາງຄືນ</image:title>
+      <image:caption>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ ຢືນຢູ່ຕາມທາງທີ່ມີແສງຈັນສ່ອງ ທີ່ນະຄອນຣາຊສີມາຍາມກາງຄືນ</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_200.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (200w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_311.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (311w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_396.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (396w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_484.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (484w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_529.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (529w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_576.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (576w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_650.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (650w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_718.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (718w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_779.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (779w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_846.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (846w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_909.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (909w)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lo.komayo.page/img/beautiful-woman-kimono-moonlit-path-nakhon-ratchasima-night-sketch,w_970.webp</image:loc>
+      <image:title>ພາບແຕ້ມແບບຮ່າງຂອງຍິງສາວງາມໃນຊຸດກິໂມໂນ (970w)</image:title>
+    </image:image>
   </url>
 </urlset>
